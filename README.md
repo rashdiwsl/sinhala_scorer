@@ -28,6 +28,14 @@ The system covers four thematic areas:
 
 ---
 
+## 🖼️ UI Screenshots
+
+### 🧾 Main Interface
+![UI 1](screenshots/ui-1.png)
+
+### 📊 Evaluation Results
+![UI 2](screenshots/ui-2.png)
+
 ## 🗂️ Project Structure
 
 ```
